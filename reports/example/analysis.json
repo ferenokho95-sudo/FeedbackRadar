@@ -1,0 +1,778 @@
+{
+  "rows": [
+    {
+      "review_id": "R001",
+      "text": "С карты списали деньги дважды за один заказ",
+      "rating": 2,
+      "date": "2026-10-11",
+      "topic": "оплата",
+      "top_topic": "оплата",
+      "confidence": 0.8371,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Двойное списание",
+      "severity": 5
+    },
+    {
+      "review_id": "R002",
+      "text": "Оплата картой не проходит в магазине",
+      "rating": 3,
+      "date": "2026-10-12",
+      "topic": "оплата",
+      "top_topic": "оплата",
+      "confidence": 0.8176,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Общая жалоба",
+      "severity": 3
+    },
+    {
+      "review_id": "R003",
+      "text": "Не вернули деньги после отмены покупки",
+      "rating": 1,
+      "date": "2026-10-13",
+      "topic": "оплата",
+      "top_topic": "оплата",
+      "confidence": 0.8101,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Возврат денег",
+      "severity": 4
+    },
+    {
+      "review_id": "R004",
+      "text": "Банк подтвердил списание но заказ не оплачен",
+      "rating": 2,
+      "date": "2026-10-14",
+      "topic": "оплата",
+      "top_topic": "оплата",
+      "confidence": 0.8109,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Общая жалоба",
+      "severity": 3
+    },
+    {
+      "review_id": "R005",
+      "text": "Платеж завис и деньги не поступили",
+      "rating": 3,
+      "date": "2026-10-15",
+      "topic": "оплата",
+      "top_topic": "оплата",
+      "confidence": 0.8274,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Общая жалоба",
+      "severity": 3
+    },
+    {
+      "review_id": "R006",
+      "text": "При оплате выдает ошибку банка",
+      "rating": 1,
+      "date": "2026-10-16",
+      "topic": "оплата",
+      "top_topic": "оплата",
+      "confidence": 0.7883,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Общая жалоба",
+      "severity": 3
+    },
+    {
+      "review_id": "R007",
+      "text": "Двойное списание при покупке товара",
+      "rating": 2,
+      "date": "2026-10-17",
+      "topic": "оплата",
+      "top_topic": "оплата",
+      "confidence": 0.7634,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Двойное списание",
+      "severity": 5
+    },
+    {
+      "review_id": "R008",
+      "text": "Возврат денег жду уже неделю",
+      "rating": 3,
+      "date": "2026-10-18",
+      "topic": "оплата",
+      "top_topic": "оплата",
+      "confidence": 0.7586,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Возврат денег",
+      "severity": 4
+    },
+    {
+      "review_id": "R009",
+      "text": "Курьер опоздал на три часа",
+      "rating": 1,
+      "date": "2026-10-19",
+      "topic": "доставка",
+      "top_topic": "доставка",
+      "confidence": 0.7939,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Опоздание доставки",
+      "severity": 4
+    },
+    {
+      "review_id": "R010",
+      "text": "Доставка заказа задерживается вторые сутки",
+      "rating": 2,
+      "date": "2026-10-20",
+      "topic": "доставка",
+      "top_topic": "доставка",
+      "confidence": 0.8001,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Опоздание доставки",
+      "severity": 4
+    },
+    {
+      "review_id": "R011",
+      "text": "Посылка пришла разбитой",
+      "rating": 3,
+      "date": "2026-10-21",
+      "topic": "доставка",
+      "top_topic": "доставка",
+      "confidence": 0.7611,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Повреждение заказа",
+      "severity": 5
+    },
+    {
+      "review_id": "R012",
+      "text": "Коробка повреждена при перевозке",
+      "rating": 1,
+      "date": "2026-10-22",
+      "topic": "доставка",
+      "top_topic": "доставка",
+      "confidence": 0.7589,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Повреждение заказа",
+      "severity": 5
+    },
+    {
+      "review_id": "R013",
+      "text": "Курьер не приехал в назначенный срок",
+      "rating": 2,
+      "date": "2026-10-23",
+      "topic": "доставка",
+      "top_topic": "доставка",
+      "confidence": 0.8168,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Опоздание доставки",
+      "severity": 4
+    },
+    {
+      "review_id": "R014",
+      "text": "Заказ привезли позже обещанного",
+      "rating": 3,
+      "date": "2026-10-24",
+      "topic": "доставка",
+      "top_topic": "доставка",
+      "confidence": 0.7633,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Опоздание доставки",
+      "severity": 4
+    },
+    {
+      "review_id": "R015",
+      "text": "Не могу изменить адрес доставки",
+      "rating": 1,
+      "date": "2026-10-25",
+      "topic": "доставка",
+      "top_topic": "доставка",
+      "confidence": 0.7969,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Общая жалоба",
+      "severity": 3
+    },
+    {
+      "review_id": "R016",
+      "text": "Товар потерялся в пути",
+      "rating": 2,
+      "date": "2026-10-26",
+      "topic": "доставка",
+      "top_topic": "доставка",
+      "confidence": 0.7308,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Общая жалоба",
+      "severity": 3
+    },
+    {
+      "review_id": "R017",
+      "text": "Приложение вылетает при открытии корзины",
+      "rating": 3,
+      "date": "2026-10-27",
+      "topic": "интерфейс",
+      "top_topic": "интерфейс",
+      "confidence": 0.7806,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Сбой приложения",
+      "severity": 4
+    },
+    {
+      "review_id": "R018",
+      "text": "Поиск товаров не работает",
+      "rating": 1,
+      "date": "2026-10-10",
+      "topic": "интерфейс",
+      "top_topic": "интерфейс",
+      "confidence": 0.7846,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Неудобный поиск",
+      "severity": 3
+    },
+    {
+      "review_id": "R019",
+      "text": "Не могу найти кнопку оформления",
+      "rating": 2,
+      "date": "2026-10-11",
+      "topic": "интерфейс",
+      "top_topic": "интерфейс",
+      "confidence": 0.7519,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Неудобный поиск",
+      "severity": 3
+    },
+    {
+      "review_id": "R020",
+      "text": "Фильтр по цене сбрасывается",
+      "rating": 3,
+      "date": "2026-10-12",
+      "topic": "интерфейс",
+      "top_topic": "интерфейс",
+      "confidence": 0.7716,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Неудобный поиск",
+      "severity": 3
+    },
+    {
+      "review_id": "R021",
+      "text": "Интерфейс неудобный и мелкий шрифт",
+      "rating": 1,
+      "date": "2026-10-13",
+      "topic": "интерфейс",
+      "top_topic": "интерфейс",
+      "confidence": 0.8122,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Общая жалоба",
+      "severity": 3
+    },
+    {
+      "review_id": "R022",
+      "text": "Сайт зависает при переходе в каталог",
+      "rating": 2,
+      "date": "2026-10-14",
+      "topic": "интерфейс",
+      "top_topic": "интерфейс",
+      "confidence": 0.758,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Сбой приложения",
+      "severity": 4
+    },
+    {
+      "review_id": "R023",
+      "text": "Ошибка приложения после обновления",
+      "rating": 3,
+      "date": "2026-10-15",
+      "topic": "интерфейс",
+      "top_topic": "интерфейс",
+      "confidence": 0.7772,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Сбой приложения",
+      "severity": 4
+    },
+    {
+      "review_id": "R024",
+      "text": "В личном кабинете пустой экран",
+      "rating": 1,
+      "date": "2026-10-16",
+      "topic": "интерфейс",
+      "top_topic": "интерфейс",
+      "confidence": 0.7646,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Общая жалоба",
+      "severity": 3
+    },
+    {
+      "review_id": "R025",
+      "text": "Поддержка не отвечает уже час",
+      "rating": 2,
+      "date": "2026-10-17",
+      "topic": "поддержка",
+      "top_topic": "поддержка",
+      "confidence": 0.8397,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Долгое ожидание ответа",
+      "severity": 4
+    },
+    {
+      "review_id": "R026",
+      "text": "Оператор не помог решить вопрос",
+      "rating": 3,
+      "date": "2026-10-18",
+      "topic": "поддержка",
+      "top_topic": "поддержка",
+      "confidence": 0.8519,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Нерешённый вопрос",
+      "severity": 3
+    },
+    {
+      "review_id": "R027",
+      "text": "В чате поддержки долго жду ответа",
+      "rating": 1,
+      "date": "2026-10-19",
+      "topic": "поддержка",
+      "top_topic": "поддержка",
+      "confidence": 0.8943,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Долгое ожидание ответа",
+      "severity": 4
+    },
+    {
+      "review_id": "R028",
+      "text": "Сотрудник поддержки грубо ответил",
+      "rating": 2,
+      "date": "2026-10-20",
+      "topic": "поддержка",
+      "top_topic": "поддержка",
+      "confidence": 0.8862,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Долгое ожидание ответа",
+      "severity": 4
+    },
+    {
+      "review_id": "R029",
+      "text": "Бот гоняет по кругу и не зовет оператора",
+      "rating": 3,
+      "date": "2026-10-21",
+      "topic": "поддержка",
+      "top_topic": "поддержка",
+      "confidence": 0.7986,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Общая жалоба",
+      "severity": 3
+    },
+    {
+      "review_id": "R030",
+      "text": "Не могу связаться с поддержкой",
+      "rating": 1,
+      "date": "2026-10-22",
+      "topic": "поддержка",
+      "top_topic": "поддержка",
+      "confidence": 0.7989,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Общая жалоба",
+      "severity": 3
+    },
+    {
+      "review_id": "R031",
+      "text": "Мою заявку закрыли без решения",
+      "rating": 2,
+      "date": "2026-10-23",
+      "topic": "поддержка",
+      "top_topic": "поддержка",
+      "confidence": 0.722,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Нерешённый вопрос",
+      "severity": 3
+    },
+    {
+      "review_id": "R032",
+      "text": "Операторы переводят друг на друга",
+      "rating": 3,
+      "date": "2026-10-24",
+      "topic": "поддержка",
+      "top_topic": "поддержка",
+      "confidence": 0.7785,
+      "corrected": false,
+      "complaint": true,
+      "issue": "Общая жалоба",
+      "severity": 3
+    },
+    {
+      "review_id": "R033",
+      "text": "Оплата прошла быстро спасибо",
+      "rating": 5,
+      "date": "2026-10-25",
+      "topic": "оплата",
+      "top_topic": "оплата",
+      "confidence": 0.7588,
+      "corrected": false,
+      "complaint": false,
+      "issue": "Общая жалоба",
+      "severity": 3
+    },
+    {
+      "review_id": "R034",
+      "text": "Деньги за возврат пришли вовремя",
+      "rating": 5,
+      "date": "2026-10-26",
+      "topic": "оплата",
+      "top_topic": "оплата",
+      "confidence": 0.7956,
+      "corrected": false,
+      "complaint": false,
+      "issue": "Возврат денег",
+      "severity": 4
+    },
+    {
+      "review_id": "R035",
+      "text": "Доставка была очень быстрой",
+      "rating": 5,
+      "date": "2026-10-27",
+      "topic": "доставка",
+      "top_topic": "доставка",
+      "confidence": 0.8053,
+      "corrected": false,
+      "complaint": false,
+      "issue": "Общая жалоба",
+      "severity": 3
+    },
+    {
+      "review_id": "R036",
+      "text": "Курьер вежливый привез вовремя",
+      "rating": 5,
+      "date": "2026-10-10",
+      "topic": "доставка",
+      "top_topic": "доставка",
+      "confidence": 0.8072,
+      "corrected": false,
+      "complaint": false,
+      "issue": "Общая жалоба",
+      "severity": 3
+    },
+    {
+      "review_id": "R037",
+      "text": "Приложение быстрое удобный интерфейс",
+      "rating": 5,
+      "date": "2026-10-11",
+      "topic": "интерфейс",
+      "top_topic": "интерфейс",
+      "confidence": 0.8676,
+      "corrected": false,
+      "complaint": false,
+      "issue": "Общая жалоба",
+      "severity": 3
+    },
+    {
+      "review_id": "R038",
+      "text": "Удобно пользоваться фильтрами каталога",
+      "rating": 5,
+      "date": "2026-10-12",
+      "topic": "интерфейс",
+      "top_topic": "интерфейс",
+      "confidence": 0.8094,
+      "corrected": false,
+      "complaint": false,
+      "issue": "Неудобный поиск",
+      "severity": 3
+    },
+    {
+      "review_id": "R039",
+      "text": "Спасибо оператору за быструю помощь",
+      "rating": 5,
+      "date": "2026-10-13",
+      "topic": "поддержка",
+      "top_topic": "поддержка",
+      "confidence": 0.7753,
+      "corrected": false,
+      "complaint": false,
+      "issue": "Общая жалоба",
+      "severity": 3
+    },
+    {
+      "review_id": "R040",
+      "text": "Служба поддержки решила проблему",
+      "rating": 5,
+      "date": "2026-10-14",
+      "topic": "поддержка",
+      "top_topic": "поддержка",
+      "confidence": 0.8285,
+      "corrected": false,
+      "complaint": false,
+      "issue": "Нерешённый вопрос",
+      "severity": 3
+    }
+  ],
+  "backlog": [
+    {
+      "topic": "доставка",
+      "issue": "Опоздание доставки",
+      "count": 4,
+      "severity": 4,
+      "score": 8.0,
+      "examples": [
+        {
+          "review_id": "R009",
+          "text": "Курьер опоздал на три часа"
+        },
+        {
+          "review_id": "R010",
+          "text": "Доставка заказа задерживается вторые сутки"
+        },
+        {
+          "review_id": "R013",
+          "text": "Курьер не приехал в назначенный срок"
+        }
+      ],
+      "hypothesis": "Исследовать «опоздание доставки»: проверить сценарий и подтвердить причину на обращениях."
+    },
+    {
+      "topic": "оплата",
+      "issue": "Общая жалоба",
+      "count": 4,
+      "severity": 3,
+      "score": 6.0,
+      "examples": [
+        {
+          "review_id": "R002",
+          "text": "Оплата картой не проходит в магазине"
+        },
+        {
+          "review_id": "R004",
+          "text": "Банк подтвердил списание но заказ не оплачен"
+        },
+        {
+          "review_id": "R005",
+          "text": "Платеж завис и деньги не поступили"
+        }
+      ],
+      "hypothesis": "Исследовать «общая жалоба»: проверить сценарий и подтвердить причину на обращениях."
+    },
+    {
+      "topic": "интерфейс",
+      "issue": "Сбой приложения",
+      "count": 3,
+      "severity": 4,
+      "score": 6.0,
+      "examples": [
+        {
+          "review_id": "R017",
+          "text": "Приложение вылетает при открытии корзины"
+        },
+        {
+          "review_id": "R022",
+          "text": "Сайт зависает при переходе в каталог"
+        },
+        {
+          "review_id": "R023",
+          "text": "Ошибка приложения после обновления"
+        }
+      ],
+      "hypothesis": "Исследовать «сбой приложения»: проверить сценарий и подтвердить причину на обращениях."
+    },
+    {
+      "topic": "поддержка",
+      "issue": "Долгое ожидание ответа",
+      "count": 3,
+      "severity": 4,
+      "score": 6.0,
+      "examples": [
+        {
+          "review_id": "R025",
+          "text": "Поддержка не отвечает уже час"
+        },
+        {
+          "review_id": "R027",
+          "text": "В чате поддержки долго жду ответа"
+        },
+        {
+          "review_id": "R028",
+          "text": "Сотрудник поддержки грубо ответил"
+        }
+      ],
+      "hypothesis": "Исследовать «долгое ожидание ответа»: проверить сценарий и подтвердить причину на обращениях."
+    },
+    {
+      "topic": "доставка",
+      "issue": "Повреждение заказа",
+      "count": 2,
+      "severity": 5,
+      "score": 5.0,
+      "examples": [
+        {
+          "review_id": "R011",
+          "text": "Посылка пришла разбитой"
+        },
+        {
+          "review_id": "R012",
+          "text": "Коробка повреждена при перевозке"
+        }
+      ],
+      "hypothesis": "Исследовать «повреждение заказа»: проверить сценарий и подтвердить причину на обращениях."
+    },
+    {
+      "topic": "оплата",
+      "issue": "Двойное списание",
+      "count": 2,
+      "severity": 5,
+      "score": 5.0,
+      "examples": [
+        {
+          "review_id": "R001",
+          "text": "С карты списали деньги дважды за один заказ"
+        },
+        {
+          "review_id": "R007",
+          "text": "Двойное списание при покупке товара"
+        }
+      ],
+      "hypothesis": "Исследовать «двойное списание»: проверить сценарий и подтвердить причину на обращениях."
+    },
+    {
+      "topic": "интерфейс",
+      "issue": "Неудобный поиск",
+      "count": 3,
+      "severity": 3,
+      "score": 4.5,
+      "examples": [
+        {
+          "review_id": "R018",
+          "text": "Поиск товаров не работает"
+        },
+        {
+          "review_id": "R019",
+          "text": "Не могу найти кнопку оформления"
+        },
+        {
+          "review_id": "R020",
+          "text": "Фильтр по цене сбрасывается"
+        }
+      ],
+      "hypothesis": "Исследовать «неудобный поиск»: проверить сценарий и подтвердить причину на обращениях."
+    },
+    {
+      "topic": "поддержка",
+      "issue": "Общая жалоба",
+      "count": 3,
+      "severity": 3,
+      "score": 4.5,
+      "examples": [
+        {
+          "review_id": "R029",
+          "text": "Бот гоняет по кругу и не зовет оператора"
+        },
+        {
+          "review_id": "R030",
+          "text": "Не могу связаться с поддержкой"
+        },
+        {
+          "review_id": "R032",
+          "text": "Операторы переводят друг на друга"
+        }
+      ],
+      "hypothesis": "Исследовать «общая жалоба»: проверить сценарий и подтвердить причину на обращениях."
+    },
+    {
+      "topic": "оплата",
+      "issue": "Возврат денег",
+      "count": 2,
+      "severity": 4,
+      "score": 4.0,
+      "examples": [
+        {
+          "review_id": "R003",
+          "text": "Не вернули деньги после отмены покупки"
+        },
+        {
+          "review_id": "R008",
+          "text": "Возврат денег жду уже неделю"
+        }
+      ],
+      "hypothesis": "Исследовать «возврат денег»: проверить сценарий и подтвердить причину на обращениях."
+    },
+    {
+      "topic": "доставка",
+      "issue": "Общая жалоба",
+      "count": 2,
+      "severity": 3,
+      "score": 3.0,
+      "examples": [
+        {
+          "review_id": "R015",
+          "text": "Не могу изменить адрес доставки"
+        },
+        {
+          "review_id": "R016",
+          "text": "Товар потерялся в пути"
+        }
+      ],
+      "hypothesis": "Исследовать «общая жалоба»: проверить сценарий и подтвердить причину на обращениях."
+    },
+    {
+      "topic": "интерфейс",
+      "issue": "Общая жалоба",
+      "count": 2,
+      "severity": 3,
+      "score": 3.0,
+      "examples": [
+        {
+          "review_id": "R021",
+          "text": "Интерфейс неудобный и мелкий шрифт"
+        },
+        {
+          "review_id": "R024",
+          "text": "В личном кабинете пустой экран"
+        }
+      ],
+      "hypothesis": "Исследовать «общая жалоба»: проверить сценарий и подтвердить причину на обращениях."
+    },
+    {
+      "topic": "поддержка",
+      "issue": "Нерешённый вопрос",
+      "count": 2,
+      "severity": 3,
+      "score": 3.0,
+      "examples": [
+        {
+          "review_id": "R026",
+          "text": "Оператор не помог решить вопрос"
+        },
+        {
+          "review_id": "R031",
+          "text": "Мою заявку закрыли без решения"
+        }
+      ],
+      "hypothesis": "Исследовать «нерешённый вопрос»: проверить сценарий и подтвердить причину на обращениях."
+    }
+  ],
+  "topics": {
+    "оплата": 10,
+    "доставка": 10,
+    "интерфейс": 10,
+    "поддержка": 10
+  },
+  "total": 40,
+  "duplicates_removed": 0,
+  "complaints": 32,
+  "manual_review": 0,
+  "method": "score = 100 × доля жалоб на проблему среди всех уникальных отзывов × severity / 5",
+  "data_origin": "Демонстрационные данные при использовании комплектного CSV; загруженный CSV — данные пользователя."
+}
